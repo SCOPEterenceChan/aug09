@@ -9,4 +9,4 @@ Row 2, Col 1       | Row 2, Col 2
 
 
 
-[/lks.png](https://github.com/SCOPEterenceChan/aug09/lks.PNG)
+![/lks.png](https://github.com/SCOPEterenceChan/aug09/lks.png)
