@@ -10,4 +10,4 @@ Row 2, Col 1       | Row 2, Col 2
 
 
 ![/lks.png]
-(https://github.com/SCOPEterenceChan/aug09/lks.png)
+(https://github.com/SCOPEterenceChan/aug09/blob/main/lks.png)
